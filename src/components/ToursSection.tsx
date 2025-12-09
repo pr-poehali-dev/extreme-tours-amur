@@ -36,7 +36,7 @@ const tours: Tour[] = [
     description: 'Экстремальный подъём по вершине. Преодоление сложных участков.',
     difficulty: 'Экстремальный',
     duration: '3 дня',
-    price: 25000,
+    price: 85000,
     image: 'https://images.unsplash.com/photo-1501785888041-af3ef285b470?w=800',
     category: 'Водные'
   },

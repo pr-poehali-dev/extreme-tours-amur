@@ -65,7 +65,7 @@ const tours: Tour[] = [
     title: 'ЭКСПЕДИЦИЯ ПО РЕКЕ СЕЛЕМДЖА',
     description: 'Экстремальное бездорожье, переправы через реки, ночевка в дикой природе.',
     difficulty: 'Средний',
-    duration: '2 дня',
+    duration: '3 дня',
     price: 18000,
     image: 'https://images.unsplash.com/photo-1519904981063-b0cf448d479e?w=800',
     category: 'Авто'

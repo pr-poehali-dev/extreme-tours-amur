@@ -37,7 +37,7 @@ const tours: Tour[] = [
     difficulty: 'Экстремальный',
     duration: '3 дня',
     price: 85000,
-    image: 'https://images.unsplash.com/photo-1501785888041-af3ef285b470?w=800',
+    image: 'https://cdn.poehali.dev/files/Становой_хребет_на_границе_Якутии_и_Амурской_области.jpg',
     category: 'Водные'
   },
   {

@@ -52,7 +52,7 @@ const tours: Tour[] = [
   },
   {
     id: 3,
-    title: 'ЗИМНИЙ РАФТИНГ',
+    title: 'РАФТИНГ',
     description: 'Приключение и адреналин по Амуру',
     difficulty: 'Высокий',
     duration: '1 день',

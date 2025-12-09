@@ -56,7 +56,7 @@ const tours: Tour[] = [
     description: 'Приключение и адреналин по Амуру',
     difficulty: 'Высокий',
     duration: '1 день',
-    price: 8000,
+    price: 30000,
     image: 'https://images.unsplash.com/photo-1483732608347-c44d31297194?w=800',
     category: 'Зимние'
   },

@@ -45,7 +45,7 @@ const tours: Tour[] = [
     title: 'ШАМБАЛА ПИНЕЖЬЕ',
     description: 'Восхождение на одну из высочайших вершин Дальнего Востока. Для опытных альпинистов.',
     difficulty: 'Экстремальный',
-    duration: '7 дней',
+    duration: '1 день',
     price: 45000,
     image: 'https://images.unsplash.com/photo-1506905925346-21bda4d32df4?w=800',
     category: 'Горные'
